@@ -20,9 +20,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SampleResources/Scenes/2-ModelTargets.unity
     guid: 530386685ba085242832bd5cc78d7222
-  - enabled: 1
-    path: Assets/Scenes/SimpleVuforia.unity
+  - enabled: 0
+    path: Assets/Scenes/libraryTests/SimpleVuforia.unity
     guid: 758653d34e08a9047b05486064d14af8
+  - enabled: 1
+    path: Assets/Scenes/AccuracyDemo/OptiTrackHL2Build.unity
+    guid: 6ec6321524471d64a8c09bcdbec7622d
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: ccfcc1c19beeb3e40b6ffecd226da296,
       type: 2}
